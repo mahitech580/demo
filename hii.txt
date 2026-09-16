@@ -1,1 +1,6 @@
-hii
+Hello GitHub!
+
+This is my first GitHub demo.
+I am learning Git, GitHub, commits, and version control.
+
+Updated successfully!
